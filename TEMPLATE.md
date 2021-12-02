@@ -41,4 +41,4 @@ pip install my-package
 
 ## 💭 Feedback
 
-Add a link to the Discsussions tab in your repo and invite users to open issues for bugs/feature requests.
+Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
