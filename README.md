@@ -21,7 +21,7 @@ After much practice, I have a recipe of sorts for writing READMEs that I follow 
 
 This all started as a bit of a joke; a coworker complimented me on a few of the READMEs I had written, wanting to learn how themselves. I jokingly said I could give a talk on the subject, and well, that's precisely what I did -- this README is the result of that talk.
 
-In creating this guide, I hope to refine my ability to create inspiring READMEs and build my colleagues to better communicate what we are creating. After all, we're in the business of Open Source Software for a reason: ***to share our work and make an impact***. Having a well-written overview of our work is crucial in pursuing that goal.
+In creating this guide, I hope to refine my ability to create inspiring READMEs and help my colleagues better communicate what we are creating. After all, we're in the business of Open Source Software for a reason: ***to share our work and make an impact***. Having a well-written overview of our work is crucial in pursuing that goal.
 
 ### 😊 Leave a good impression
 
