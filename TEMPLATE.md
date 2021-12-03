@@ -1,8 +1,8 @@
 # 📦 My Package
 
-(add your status badges here)
+(add your badges here)
 
-*Your README is a direct reflection of your software, so hold it to the same standards.*
+> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
 
 
 ## 🌟 Highlights
