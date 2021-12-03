@@ -17,7 +17,7 @@
 A paragraph explaining your work, who you are, and why you made it.
 
 
-## 🚀 Usage instructions
+## 🚀 Usage
 
 *Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
 
