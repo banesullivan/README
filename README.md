@@ -117,7 +117,7 @@ I know you're all looking for an example of a bad README now, so check out [py-f
 
 ## 💭 Invite users to give feedback
 
-If you found this guide insightful or if you have suggestions, please start a [Discsussion](https://github.com/banesullivan/README/discussions)!
+If you found this guide insightful or if you have suggestions, please start a [Discussion](https://github.com/banesullivan/README/discussions)!
 
 When making open source software, you share your work with the world. Whether that is in the hope of contributions back, humbly if just one other person out there finds it useful, or building a community, I think it is important to solicit engagement. To do this, I like to point people over to the Discussions tab or invite them to request new features by opening an issue.
 
