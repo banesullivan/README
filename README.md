@@ -11,7 +11,7 @@ After much practice, I have a recipe of sorts for writing READMEs that I follow 
 
 ## 🌟 Highlights
 
-I think a *"Highlights"* section is one of the most important sections to include at the top of a good README. Create a simple, bulleted list of the main selling points of your software.
+I think a *"Highlights"* section is one of the most important to include at the top of a good README. Create a simple, bulleted list of the main selling points of your software.
 
 Here are the main takeaways of this guide:
 
@@ -112,7 +112,7 @@ Additionally, you want to be sure to specify any minimum requirements to run the
 
 ## 🏆 Examples that inspire me
 
-These are a few projects that I think have very effective READMEs. You look at the README and you can quickly gain what you need to answer the three questions I posed earlier.
+These are a few projects that I think have very effective READMEs. You look at the README and you can quickly gain what you need to answer the few questions I posed earlier.
 
 There are countless others like these out there, but here are a few I strive to be like:
 
