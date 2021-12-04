@@ -4,12 +4,16 @@
 
 > *Your documentation is a direct reflection of your software, so hold it to the same standards.*
 
-After much practice, I have a recipe of sorts for writing READMEs that I follow anytime I make a new project. I wanted to share my process here and gather some feedback.
+After much practice, I have a recipe of sorts for writing READMEs that I follow anytime I make a new project. I wanted to share my process here, gather feedback, and see if I can lower the barrier to writing a good README.
 
 *This guide is geared towards projects that do not yet, or never will, have flushed out documentation. Once a project has a dedicated website, the README should turn into a minimal elevator pitch and "link fest" to relevant materials.*
 
 
-## 🌟 Takeaways
+## 🌟 Highlights
+
+I think a *"Highlights"* section is one of the most important to include at the top of a good README. Create a simple, bulleted list of the main selling points of your software.
+
+Here are the main takeaways of this guide:
 
 - Make it inviting, friendly, and approachable
 - Find the most appealing part of your software and *sell it*!
@@ -18,13 +22,15 @@ After much practice, I have a recipe of sorts for writing READMEs that I follow 
 - Emoji usage is encouraged (I'm only half kidding)
 - A [template](./TEMPLATE.md) for you to use!
 
+
 ## ℹ️ Overview
 
 > *If nothing else, try writing better READMEs because it will make you look more professional and legitimate.*
 
-This all started as a bit of a joke; a coworker complimented me on a few of the READMEs I had written, wanting to learn how I do it. I jokingly said I could give a talk on the subject, and well, that's precisely what I did -- this README is the result of that talk.
+A good README should include a brief overview section with a paragraph or two explaining what is does, how it works, and who made it.
 
-In creating this guide, I hope to refine my ability to create inspiring READMEs and help my colleagues better communicate what we are creating. After all, we're in the business of Open Source Software for a reason: ***to share our work and make an impact***. Having a well-written overview of our work is crucial in pursuing that goal.
+Feel free to include 2-3 subsections here with relevant information in regards to who you are and how the software is relevant in a broader ecosystem of software (perhaps respectfully compare your software to other solutions out there).
+
 
 ### 😊 Leave a good impression
 
@@ -47,12 +53,20 @@ When someone looks over your README, they should be able to find the answers to 
 
 1. Does this solve my problem?
 2. Can I use this code?
-3. How can I learn more?
+3. Who made this?
+4. How can I learn more?
 
 Try to streamline your README so that anyone glancing at it can answer those questions. This requires a bit of foresight into the typical kinds of problems people will come to your software for -- figure out those common problems and demonstrate a solution (even if that problem isn't the central aspect of your software).
 
-On my point about emoji usage in the Takeaways: besides being friendly and quirky, you can use emojis to break up otherwise plain text. In most of my READMEs, I like to use emojis in the section headers. This makes it much easier for me, and hopefully, others, to navigate the document.
+On my point about emoji usage in the Highlights: besides being friendly and quirky, you can use emojis to break up otherwise plain text. In most of my READMEs, I like to use emojis in the section headers. This makes it much easier for me, and hopefully, others, to navigate the document.
 
+To help people answer the question of *"who made this?"*, include a subsection in your Overview to explain who created the software.
+
+### ✍️ Author
+
+I'm [Bane Sullivan](https://github.com/banesullivan) and I created this guide hoping to refine my ability to create inspiring READMEs and help my colleagues better communicate what we are creating. This guide is my opinionated take on *"how to write a good README?"*
+
+After all, we're in the business of Open Source Software for a reason: ***to share our work and make an impact***. Having a well-written overview of our work is crucial in pursuing that goal.
 
 ### 🎁 Template
 
@@ -63,7 +77,7 @@ Are you sold yet? Check out the included [template](./TEMPLATE.md) to get starte
 
 > *Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
 
-This is where you need to give *minimal* examples on how to use your software to demonstrate what it can do. I often find that screenshots are one of the most effective ways to communicate what your software can do, as most people just skim looking at the pictures.
+This is where you need to give *minimal* examples on how to use your software to demonstrate what it can do. I often find that screenshots or animated GIFs are the most effective ways to communicate what your software can do, as most people just skim looking at the pictures.
 
 When adding code, it is crucial to use proper formatting in code blocks with syntax highlighting:
 
@@ -93,10 +107,12 @@ pip install pyvista
 
 I'm assuming that you are shipping your software off to some package manager; if so, you've made it clear that you intend to reach a wide range of users who likely aren't interested in contributing back to your software. With that in mind, save your development instructions (e.g., `git clone ...; cmake ..`) for the bottom of your README or another document altogether. The people looking for that know how to find it, whereas your average user will be scared off by complicated build instructions.
 
+Additionally, you want to be sure to specify any minimum requirements to run the software here. If it is multiplatform, great, let people know that! If not, specify what platforms this runs on or which versions of Python, etc., are supported.
+
 
 ## 🏆 Examples that inspire me
 
-These are a few projects that I think have very effective READMEs. You look at the README and you can quickly gain what you need to answer the three questions I posed earlier.
+These are a few projects that I think have very effective READMEs. You look at the README and you can quickly gain what you need to answer the few questions I posed earlier.
 
 There are countless others like these out there, but here are a few I strive to be like:
 
@@ -115,11 +131,13 @@ There are countless others like these out there, but here are a few I strive to 
 I know you're all looking for an example of a bad README now, so check out [py-filelock](https://github.com/tox-dev/py-filelock/tree/5a39bbb628d573b3776c88aa7dbfed4000a17a09) which only has a link to API docs -- no overview or anything 🤦‍♂️. I feel a little bad calling out a specific project, but you know what, I'm trying to make a point.
 
 
-## 💭 Invite users to give feedback
+## 💭 Invite users to give feedback and contribute
 
-If you found this guide insightful or if you have suggestions, please start a [Discussion](https://github.com/banesullivan/README/discussions)!
+> *If you found this guide insightful or if you have suggestions, please start a [Discussion](https://github.com/banesullivan/README/discussions)!*
 
 When making open source software, you share your work with the world. Whether that is in the hope of contributions back, humbly if just one other person out there finds it useful, or building a community, I think it is important to solicit engagement. To do this, I like to point people over to the Discussions tab or invite them to request new features by opening an issue.
+
+If you want to encourage others to contribute back to your project, this is the place to do it. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them. Further, you can outline any other ways to contribute such as translating the README or documentation.
 
 
 ## 📖 Further reading
