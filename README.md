@@ -27,7 +27,7 @@ Here are the main takeaways of this guide:
 
 > *If nothing else, try writing better READMEs because it will make you look more professional and legitimate.*
 
-A good README should include a brief overview section with a paragraph or two explaining what is does, how it works, and who made it.
+A good README should include a brief overview section with a paragraph or two explaining what the software does, how it works, and who made it.
 
 Feel free to include 2-3 subsections here with relevant information in regards to who you are and how the software is relevant in a broader ecosystem of software (perhaps respectfully compare your software to other solutions out there).
 
