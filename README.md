@@ -143,4 +143,4 @@ If you want to encourage others to contribute back to your project, this is the 
 ## 📖 Further reading
 
 - https://github.com/hackergrrl/art-of-readme
-- https://www.giacomodebidda.com/posts/how-to-write-a-killer-readme/
+- https://www.giacomodebidda.com/articles/how-to-write-a-killer-readme/
